@@ -40,13 +40,31 @@ None.
 
 **Python, Genetic algorithms, fuzzywuzzy, Random module, String module, Evolutionary algorithms, Selection, Crossover, Mutation, VS Code**
 
+---
+
 ### 📸 Project Snapshot
 
-Not available.
+<p align="center">
+  <img src=img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true"
+       alt="App Preview" 
+       width="640" 
+       height="360">
+</p>
+
+---
 
 ### 🎥 Video Demonstration
 
-Not available.
+<p align="center">
+  <a href="https://youtu.be/AtRJN3bizy0">
+    <img src="https://img.youtube.com/vi/AtRJN3bizy0/0.jpg" 
+         alt="Watch the demo" 
+         width="640" 
+         height="360">
+
+
+---
+
 
 ### 📣 Hashtags Section
 
