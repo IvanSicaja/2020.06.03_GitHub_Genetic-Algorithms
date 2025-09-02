@@ -45,11 +45,12 @@ None.
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src=img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/raw/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png"
-       alt="App Preview" 
+  <img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
+       alt="Genetic Algorithms Preview" 
        width="640" 
        height="360">
 </p>
+
 
 ---
 
