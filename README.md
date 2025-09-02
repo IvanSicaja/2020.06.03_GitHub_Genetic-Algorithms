@@ -45,7 +45,7 @@ None.
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src=img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true"
+  <img src=img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/raw/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png"
        alt="App Preview" 
        width="640" 
        height="360">
@@ -60,10 +60,11 @@ None.
     <img src="https://img.youtube.com/vi/AtRJN3bizy0/0.jpg" 
          alt="Watch the demo" 
          width="640" 
-         height="360">
+         height="400">
 
 
 ---
+
 
 
 ### 📣 Hashtags Section
