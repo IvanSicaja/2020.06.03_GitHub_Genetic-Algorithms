@@ -65,20 +65,6 @@ None.
 
 ---
 
-### 🎥 Video Demonstration
-
-<p align="center">
-  <a href="https://youtu.be/AtRJN3bizy0">
-    <img src="https://img.youtube.com/vi/AtRJN3bizy0/0.jpg" 
-         alt="Watch the demo" 
-         width="640" 
-         height="1000">
-
-
----
-
-
-
 ### 📣 Hashtags Section
 
 **\# #GeneticAlgorithms #Python #EvolutionaryComputing #Optimization #AlgorithmDesign #MachineLearning #SearchAlgorithms #Crossover #Mutation #AI**
